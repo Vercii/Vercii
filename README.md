@@ -27,11 +27,7 @@ Tech Used: React Native, Supabase, JavaScript
 Developed systems involving authentication, dashboards, and data management for academic and practical use.
 Tech Used: React, Vue, Laravel, Firebase
 
-📈 Currently Learning
-Advanced TypeScript patterns
-System architecture best practices
-Scalable backend design
-
 📫 Connect With Me
 GitHub: https://github.com/tacosNburritos
+
 Email: wwkkrenzo@gmail.com
