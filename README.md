@@ -10,27 +10,13 @@ I build modern web and mobile applications with a focus on clean architecture, p
 📍 Experienced in building full-stack applications
 🔥 Passionate about turning ideas into working products
 
-💻 Languages
-JavaScript
-TypeScript
-Python
+💻 Languages: JavaScript, TypeScript, Python, Dart
 
-🌐 Web Development
-React
-HTML5
-CSS3
-Bootstrap
-Laravel (basic experience)
-Vue (basic experience)
+🌐 Web Development: React, HTML5, CSS3, Bootstrap, Laravel, Vue 
 
-📱 Mobile Development
-React Native
-Expo
+📱 Mobile Development: React Native, Flutter, Expo
 
-🗄 Backend & Database
-Supabase
-Firebase
-REST APIs
+🗄 Backend & Database: Supabase, Firebase, REST APIs
 
 📌 Featured Projects
 📍 Campus Navigation System
