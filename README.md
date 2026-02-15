@@ -23,7 +23,7 @@ Tech Used: React Native, Supabase, JavaScript
 Developed systems involving authentication, dashboards, and data management for academic and practical use.
 Tech Used: React, Vue, Laravel, Firebase
 
-📫 Connect With Me
+-- Connect With Me --
 
 GitHub: https://github.com/tacosNburritos
 
