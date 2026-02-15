@@ -6,10 +6,13 @@ About Me:
   - Experienced in building full-stack applications
   - Passionate about turning ideas into working products
 
-💻 Languages: JavaScript, TypeScript, Python, Dart
-🌐 Web Development: React, HTML5, CSS3, Bootstrap, Laravel, Vue 
-📱 Mobile Development: React Native, Flutter, Expo
-🗄 Backend & Database: Supabase, Firebase, REST APIs
+LANGUAGES: JavaScript, TypeScript, Python, Dart
+
+WEB DEVELOPMENT: React, HTML5, CSS3, Bootstrap, Laravel, Vue 
+
+MOBILE DEVELOPMENT: React Native, Flutter, Expo
+
+BACKEND & DATABASE: Supabase, Firebase, REST APIs
 
 Featured Projects
   - Campus Navigation System
