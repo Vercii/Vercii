@@ -28,5 +28,6 @@ Developed systems involving authentication, dashboards, and data management for 
 Tech Used: React, Vue, Laravel, Firebase
 
 📫 Connect With Me
+
 GitHub: https://github.com/tacosNburritos
 Email: wwkkrenzo@gmail.com
