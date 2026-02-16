@@ -25,6 +25,6 @@ Tech Used: React, Vue, Laravel, Firebase
 
 -- Connect With Me --
 
-GitHub: https://github.com/tacosNburritos
+GitHub: https://github.com/Vercii
 
 Email: wwkkrenzo@gmail.com
