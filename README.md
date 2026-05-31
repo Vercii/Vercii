@@ -2,3 +2,9 @@ Hi, I’m Renzo! I’m an undergraduate Computer Science student with experience
 
 Contact Me: <br>
 Email: wwkkrenzo@gmail.com
+
+Certifications: <br>
+## Certifications
+- [AWS Cloud Practitioner Essentials Certificate](https://github.com/Vercii/aws-cpe-notes/blob/main/AWS-CPE-Certificate.pdf)
+- [CISCO Networking Basics Certificate](https://github.com/Vercii/CISCO-NB-Notes/blob/main/Networking_Basics_certificate.pdf)
+- [NDG Linux Essentials Certificate](https://github.com/Vercii/linux-systems-notes/blob/main/Linux_Essentials_certificate.pdf)
