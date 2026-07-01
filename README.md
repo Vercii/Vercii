@@ -7,7 +7,7 @@ Hi, I’m Renzo! I’m a Computer Science graduate with experience in web and mo
 | Category           | Technologies                        |
 | ------------------ | ----------------------------------- |
 | ☁️ Cloud & DevOps  | AWS, Docker, Linux, Git, GitHub     |
-| 💻 Programming     | JavaScript, TypeScript, Java, PHP   |
+| 💻 Programming     | Python, JavaScript, TypeScript |
 | 🌐 Web Development | React, Next.js, Node.js, Express.js |
 | 🗄️ Databases      | PostgreSQL, MySQL, Firebase         |
 
