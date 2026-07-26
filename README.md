@@ -12,7 +12,7 @@ I'm passionate about exploring new technologies and continuously improving my sk
 | 🤖 AI & Automation | n8n, Gemini API, REST APIs, Workflow Automation |
 | 💻 Programming     | Python, JavaScript, TypeScript                  |
 | 🌐 Web Development | React, Next.js, Node.js, Express.js             |
-| 🗄️ Databases      | PostgreSQL, MySQL, Firebase                     |
+| 🗄️ Databases      | PostgreSQL, MySQL, Firebase, Supabase                     |
 
 ---
 
