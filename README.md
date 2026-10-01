@@ -6,13 +6,14 @@ I'm passionate about exploring new technologies and continuously improving my sk
 
 ### Technologies & Tools
 
-| Category           | Technologies                                    |
-| ------------------ | ----------------------------------------------- |
-| ☁️ Cloud & DevOps  | AWS, Docker, Linux, Git, GitHub                 |
-| 🤖 AI & Automation | n8n, Gemini API, REST APIs, Workflow Automation |
-| 💻 Programming     | Python, JavaScript, TypeScript                  |
-| 🌐 Web Development | React, Next.js, Node.js, Express.js             |
-| 🗄️ Databases      | PostgreSQL (Supabase), MySQL, Firebase, DynamoDB         |
+| Category                          | Technologies                                     |
+| --------------------------------- | ------------------------------------------------ |
+| ☁️ Cloud & DevOps                 | AWS, Docker, Linux, Git, GitHub                  |
+| 🤖 AI & Automation                | n8n, Gemini API, REST APIs, Workflow Automation  |
+| 💻 Programming                    | Python, JavaScript, TypeScript                   |
+| 🌐 Web Development                | React, Next.js, Node.js, Express.js              |
+| 🗄️ Databases                     | PostgreSQL (Supabase), MySQL, Firebase, DynamoDB |
+| ⚙️ Business Application Platforms | Knack, Appsmith                                  |
 
 ---
 
@@ -21,10 +22,9 @@ I'm passionate about exploring new technologies and continuously improving my sk
 📧 **Email:** [wwkkrenzo@gmail.com](mailto:wwkkrenzo@gmail.com) <br>
 🌐 **Website:** [RITM Portfolio](https://ritm-portfolio.vercel.app/)
 
----
-
 ### Certifications
 
 * [AWS Cloud Practitioner Essentials Certificate](https://github.com/Vercii/aws-cpe-notes/blob/main/AWS-CPE-Certificate.pdf)
 * [Cisco Networking Basics Certificate](https://github.com/Vercii/CISCO-NB-Notes/blob/main/Networking_Basics_certificate.pdf)
 * [NDG Linux Essentials Certificate](https://github.com/Vercii/linux-systems-notes/blob/main/Linux_Essentials_certificate.pdf)
+https://github.com/Vercii
