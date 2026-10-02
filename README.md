@@ -20,7 +20,7 @@ I'm passionate about exploring new technologies and continuously improving my sk
 ### Contact Me
 
 📧 **Email:** [wwkkrenzo@gmail.com](mailto:wwkkrenzo@gmail.com) <br>
-🌐 **Website:** [RITM Portfolio](https://ritm-portfolio.vercel.app/)
+🌐 **Website:** [renzotakeda.site](https://ritm-portfolio.vercel.app/)
 
 ### Certifications
 
