@@ -27,4 +27,3 @@ I'm passionate about exploring new technologies and continuously improving my sk
 * [AWS Cloud Practitioner Essentials Certificate](https://github.com/Vercii/aws-cpe-notes/blob/main/AWS-CPE-Certificate.pdf)
 * [Cisco Networking Basics Certificate](https://github.com/Vercii/CISCO-NB-Notes/blob/main/Networking_Basics_certificate.pdf)
 * [NDG Linux Essentials Certificate](https://github.com/Vercii/linux-systems-notes/blob/main/Linux_Essentials_certificate.pdf)
-https://github.com/Vercii
